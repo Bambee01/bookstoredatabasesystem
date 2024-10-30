@@ -4,7 +4,7 @@ This SQL Server script creates a relational database for a bookstore management 
 
 ## Database Schema
 
-![erd-gravity.png](./erd-gravity.png)
+![erd-gravity.png](/erd-gravity.png)
 
 The script defines the following tables:
 
