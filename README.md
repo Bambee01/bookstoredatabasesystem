@@ -1,12 +1,10 @@
-# Bookstore Database System (Bami)
-
 # Bookstore Database System
 
 This SQL Server script creates a relational database for a bookstore management system. The database includes tables to store information about books, authors, publishers, customers, orders, shipping methods, and more.
 
 ## Database Schema
 
-![erd_gravity-2048x1163 (1).png](erd_gravity-2048x1163_(1).png)
+![erd-gravity.png](erd-gravity.png)
 
 The script defines the following tables:
 
